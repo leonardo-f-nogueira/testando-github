@@ -3,3 +3,5 @@ Esse é um arquivo de teste para aprender Git e GitHub.
 Aluno Leonardo Fortunato Nogueira.
 
 Estou muito empolgado com os cursos. Com certeza irei me tornar um desenvolvedor foda!
+
+Eu amo comer e ganhar dinheiro.
